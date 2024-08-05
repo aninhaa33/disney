@@ -1,0 +1,505 @@
+
+{
+"Animacoes": [
+  {
+    "cartaz": "pocahontas.jpg",
+    "nome": "Pocahontas",
+    "data_lancamento": "23 de junho de 1995",
+    "diretor": "Mike Gabriel, Eric Goldberg"
+  },
+  {
+    "cartaz": "lilo_&_stitch.jpg",
+    "nome": "Lilo & Stitch",
+    "data_lancamento": "21 de junho de 2002",
+    "diretor": "Chris Sanders, Dean DeBlois"
+  },
+  {
+    "cartaz": "princesa_e_sapo.jpg",
+    "nome": "A Princesa e o Sapo",
+    "data_lancamento": "11 de dezembro de 2009",
+    "diretor": "Ron Clements, John Musker"
+  },
+  {
+    "cartaz": "zootopia.jpg",
+    "nome": "Zootopia",
+    "data_lancamento": "4 de março de 2016",
+    "diretor": "Byron Howard, Rich Moore"
+  },
+  {
+    "cartaz": "big_hero.jpg",
+    "nome": "Operação Big Hero",
+    "data_lancamento": "7 de novembro de 2014",
+    "diretor": "Don Hall, Chris Williams"
+  },
+  {
+    "cartaz": "moana.jpg",
+    "nome": "Moana",
+    "data_lancamento": "23 de novembro de 2016",
+    "diretor": "Ron Clements, John Musker"
+  },
+  {
+    "cartaz": "hercules.jpg",
+    "nome": "Hércules",
+    "data_lancamento": "27 de junho de 1997",
+    "diretor": "Ron Clements, John Musker"
+  },
+  {
+    "cartaz": "O_galinho_little_chicken.jpg",
+    "nome": "O Galinho Chicken Little",
+    "data_lancamento": "4 de novembro de 2005",
+    "diretor": "Mark Dindal"
+  },
+  {
+    "cartaz": "tinker_bell.jpg",
+    "nome": "Tinker Bell",
+    "data_lancamento": "28 de outubro de 2008",
+    "diretor": "Bradley Raymond"
+  },
+  
+  
+    {
+      "cartaz": "branca_de_neve.jpg",
+      "nome": "Branca de Neve e os Sete Anões",
+      "data_lancamento": "21 de dezembro de 1937",
+      "diretor": "David Hand"
+    },
+    {
+      "cartaz": "peter_pan.jpg",
+      "nome": "Peter Pan",
+      "data_lancamento": "5 de fevereiro de 1953",
+      "diretor": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske"
+    },
+    {
+      "cartaz": "enrolados.jpg",
+      "nome": "Enrolados",
+      "data_lancamento": "24 de novembro de 2010",
+      "diretor": "Nathan Greno, Byron Howard"
+    },
+    {
+      "cartaz": "images.jpg",
+      "nome": "Dumbo",
+      "data_lancamento": "23 de outubro de 1941",
+      "diretor": "Ben Sharpsteen"
+    },
+    {
+      "cartaz": "101dalmatas.jpg",
+      "nome": "101 Dálmatas",
+      "data_lancamento": "25 de janeiro de 1961",
+      "diretor": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman"
+    },
+    {
+      "cartaz": "bela_adormecida.jpg",
+      "nome": "A Bela Adormecida",
+      "data_lancamento": "29 de janeiro de 1959",
+      "diretor": "Clyde Geronimi"
+    },
+    {
+      "cartaz": "tarzan.jpg",
+      "nome": "Tarzan",
+      "data_lancamento": "18 de junho de 1999",
+      "diretor": "Kevin Lima, Chris Buck"
+    },
+    {
+      "cartaz": "detona_ralph.jpg",
+      "nome": "Detona Ralph",
+      "data_lancamento": "2 de novembro de 2012",
+      "diretor": "Rich Moore"
+    },
+    {
+      "cartaz": "encanto.jpg",
+      "nome": "Encanto",
+      "data_lancamento": "24 de novembro de 2021",
+      "diretor": "Byron Howard, Jared Bush"
+    },
+    {
+      "cartaz": "raya.jpg",
+      "nome": "Raya e o Último Dragão",
+      "data_lancamento": "5 de março de 2021",
+      "diretor": "Don Hall, Carlos López Estrada"
+    },
+    {
+      "cartaz": "mundo_estranho.jpg",
+      "nome": "Mundo Estranho",
+      "data_lancamento": "23 de novembro de 2022",
+      "diretor": "Don Hall"
+    },
+    {
+      "cartaz": "wish.jpg",
+      "nome": "Wish",
+      "data_lancamento": "Previsto para 22 de novembro de 2023",
+      "diretor": "Chris Buck, Fawn Veerasunthorn"
+    },
+    {
+      "cartaz": "divertidamente.jpg",
+      "nome": "DivertidaMente",
+      "data_lancamento": "19 de junho de 2015",
+      "diretor": "Pete Docter, Ronnie del Carmen"
+    },
+    {
+      "cartaz": "soul.jpg",
+      "nome": "Soul",
+      "data_lancamento": "25 de dezembro de 2020",
+      "diretor": "Pete Docter, Kemp Powers"
+    },
+    {
+      "cartaz": "dama_vagabundo.jpg",
+      "nome": "A Dama e o Vagabundo",
+      "data_lancamento": "16 de junho de 1955",
+      "diretor": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske"
+    },
+    {
+      "cartaz": "corcunda.jpg",
+      "nome": "O Corcunda de Notre Dame",
+      "data_lancamento": "21 de junho de 1996",
+      "diretor": "Gary Trousdale, Kirk Wise"
+    },
+    {
+      "cartaz": "onda_imperador.jpg",
+      "nome": "A Nova Onda do Imperador",
+      "data_lancamento": "15 de dezembro de 2000",
+      "diretor": "Mark Dindal"
+    },
+    {
+      "cartaz": "fantasia.jpg",
+      "nome": "Fantasia",
+      "data_lancamento": "13 de novembro de 1940",
+      "diretor": "Vários diretores"
+    },
+    {
+      "cartaz": "aristogatas.jpg",
+      "nome": "Aristogatas",
+      "data_lancamento": "24 de dezembro de 1970",
+      "diretor": "Wolfgang Reitherman"
+    },
+    {
+      "cartaz": "avioes.jpg",
+      "nome": "Aviões",
+      "data_lancamento": "9 de agosto de 2013",
+      "diretor": "Klay Hall"
+    },
+    {
+      "cartaz": "frozen.jpg",
+      "nome": "Frozen",
+      "data_lancamento": "27 de novembro de 2013",
+      "diretor": "Chris Buck, Jennifer Lee"
+    }
+  ],  
+  
+
+
+
+  "LiveAction":[
+    {
+      "cartaz": "alice.jpg",
+      "nome": "Alice no País das Maravilhas",
+      "data_lancamento": "5 de março de 2010",
+      "diretor": "Tim Burton"
+    },
+    {
+      "cartaz": "malevola.jpeg",
+      "nome": "Malévola",
+      "data_lancamento": "30 de maio de 2014",
+      "diretor": "Robert Stromberg"
+    },
+    {
+      "cartaz": "Cinderella.jpg",
+      "nome": "Cinderela",
+      "data_lancamento": "13 de março de 2015",
+      "diretor": "Kenneth Branagh"
+    },
+    {
+      "cartaz": "mogli.jpg",
+      "nome": "Mogli: O Menino Lobo",
+      "data_lancamento": "15 de abril de 2016",
+      "diretor": "Jon Favreau"
+    },
+    {
+      "cartaz": "alice_atraves_espelho.jpg",
+      "nome": "Alice Através do Espelho",
+      "data_lancamento": "27 de maio de 2016",
+      "diretor": "James Bobin"
+    },
+    {
+      "cartaz": "meu_amigo_dragao.jpg",
+      "nome": "Meu Amigo, o Dragão",
+      "data_lancamento": "12 de agosto de 2016",
+      "diretor": "David Lowery"
+    },
+    {
+      "cartaz": "a_bela_fera.jpg",
+      "nome": "A Bela e a Fera",
+      "data_lancamento": "17 de março de 2017",
+      "diretor": "Bill Condon"
+    },
+    {
+      "cartaz": "piratas_do_caribe.jpg",
+      "nome": "Piratas do Caribe: A Vingança de Salazar",
+      "data_lancamento": "26 de maio de 2017",
+      "diretor": "Joachim Rønning, Espen Sandberg"
+    },
+    {
+      "cartaz": "christopher_robin.jpg",
+      "nome": "Christopher Robin - Um Reencontro Inesquecível",
+      "data_lancamento": "3 de agosto de 2018",
+      "diretor": "Marc Forster"
+    },
+    {
+      "cartaz": "quebra_nozes.jpeg",
+      "nome": "O Quebra-Nozes e os Quatro Reinos",
+      "data_lancamento": "2 de novembro de 2018",
+      "diretor": "Lasse Hallström, Joe Johnston"
+    },
+    {
+      "cartaz": "dumbo.jpg",
+      "nome": "Dumbo",
+      "data_lancamento": "29 de março de 2019",
+      "diretor": "Tim Burton"
+    },
+    {
+      "cartaz": "aladdin.jpg",
+      "nome": "Aladdin",
+      "data_lancamento": "24 de maio de 2019",
+      "diretor": "Guy Ritchie"
+    },
+    {
+      "cartaz": "rei_leao.jpg",
+      "nome": "O Rei Leão",
+      "data_lancamento": "19 de julho de 2019",
+      "diretor": "Jon Favreau"
+    },
+    {
+      "cartaz": "dama_e_vagabundo.jpg",
+      "nome": "A Dama e o Vagabundo",
+      "data_lancamento": "12 de novembro de 2019",
+      "diretor": "Charlie Bean"
+    },
+    {
+      "cartaz": "mulan.jpg",
+      "nome": "Mulan",
+      "data_lancamento": "4 de setembro de 2020",
+      "diretor": "Niki Caro"
+    },
+    {
+      "cartaz": "extraordinaria_garota.jpg",
+      "nome": "A Extraordinária Garota Chamada Estrela",
+      "data_lancamento": "13 de março de 2020",
+      "diretor": "Julia Hart"
+    },
+    {
+      "cartaz": "Artemis_Fowl.jpeg",
+      "nome": "Artemis Fowl: O Mundo Secreto",
+      "data_lancamento": "12 de junho de 2020",
+      "diretor": "Kenneth Branagh"
+    },
+    {
+      "cartaz": "togo.jpg",
+      "nome": "Togo",
+      "data_lancamento": "20 de dezembro de 2019",
+      "diretor": "Ericson Core"
+    },
+    {
+      "cartaz": "hamilton.jpg",
+      "nome": "Hamilton",
+      "data_lancamento": "3 de julho de 2020",
+      "diretor": "Thomas Kail"
+    },
+    {
+      "cartaz": "Jungle_Cruise.jpg",
+      "nome": "Jungle Cruise",
+      "data_lancamento": "30 de julho de 2021",
+      "diretor": "Jaume Collet-Serra"
+    },
+    {
+      "cartaz": "cruella.jpg",
+      "nome": "Cruella",
+      "data_lancamento": "28 de maio de 2021",
+      "diretor": "Craig Gillespie"
+    },
+    {
+      "cartaz": "the_one_ivan.jpg",
+      "nome": "The One and Only Ivan",
+      "data_lancamento": "21 de agosto de 2020",
+      "diretor": "Thea Sharrock"
+    },
+    {
+      "cartaz": "fada_madrinha.jpg",
+      "nome": "Godmothered",
+      "data_lancamento": "4 de dezembro de 2020",
+      "diretor": "Sharon Maguire"
+    }],
+    
+
+    "GanhadoresdoOscar": [
+  {
+    "cartaz": "branca_de_neve.jpg",
+    "nome": "Branca de Neve e os Sete Anões",
+    "ano": 1939,
+    "categoria": "Prêmio Honorário"
+  },
+  {
+    "cartaz": "pinoquio.jpg",
+    "nome": "Pinóquio",
+    "ano": 1941,
+    "categoria": "Melhor Canção Original ('When You Wish Upon a Star'), Melhor Trilha Sonora Original"
+  },
+  {
+    "cartaz": "dumbo.jpg",
+    "nome": "Dumbo",
+    "ano": 1942,
+    "categoria": "Melhor Trilha Sonora de Filme Musical"
+  },
+  {
+    "cartaz": "vinte_mil_leguas.jpg",
+    "nome": "Vinte Mil Léguas Submarinas",
+    "ano": 1955,
+    "categoria": "Melhor Direção de Arte - Colorida, Melhores Efeitos Especiais"
+  },
+  {
+    "cartaz": "mary.jpg",
+    "nome": "Mary Poppins",
+    "ano": 1965,
+    "categoria": "Melhor Atriz (Julie Andrews), Melhor Montagem, Melhor Canção Original ('Chim Chim Cher-ee'), Melhor Trilha Sonora Original, Melhores Efeitos Visuais"
+  },
+  {
+    "cartaz": "caldeirao_magico.jpg",
+    "nome": "O Caldeirão Mágico",
+    "ano": 1986,
+    "categoria": "Prêmio Científico ou Técnico"
+  },
+  {
+    "cartaz": "pequena_sereia.jpeg",
+    "nome": "A Pequena Sereia",
+    "ano": 1990,
+    "categoria": "Melhor Canção Original ('Under the Sea'), Melhor Trilha Sonora Original"
+  },
+  {
+    "cartaz": "a_bela_fera.jpg",
+    "nome": "A Bela e a Fera",
+    "ano": 1992,
+    "categoria": "Melhor Canção Original ('Beauty and the Beast'), Melhor Trilha Sonora Original"
+  },
+  {
+    "cartaz": "aladdin.jpg",
+    "nome": "Aladdin",
+    "ano": 1993,
+    "categoria": "Melhor Canção Original ('A Whole New World'), Melhor Trilha Sonora Original"
+  },
+  {
+    "cartaz": "rei_leao.jpg",
+    "nome": "O Rei Leão",
+    "ano": 1995,
+    "categoria": "Melhor Canção Original ('Can You Feel the Love Tonight'), Melhor Trilha Sonora Original"
+  },
+  {
+    "cartaz": "pocahontas.jpg",
+    "nome": "Pocahontas",
+    "ano": 1996,
+    "categoria": "Melhor Canção Original ('Colors of the Wind'), Melhor Trilha Sonora Original"
+  },
+  {
+    "cartaz": "tarzan.jpg",
+    "nome": "Tarzan",
+    "ano": 2000,
+    "categoria": "Melhor Canção Original ('You'll Be in My Heart')"
+  },
+  {
+    "cartaz": "fantasia.jpg",
+    "nome": "Fantasia 2000",
+    "ano": 2001,
+    "categoria": "Prêmio Científico ou Técnico"
+  },
+  {
+    "cartaz": "montros_sa.jpg",
+    "nome": "Monstros S.A.",
+    "ano": 2002,
+    "categoria": "Melhor Canção Original ('If I Didn't Have You')"
+  },
+  {
+    "cartaz": "nemo.jpg",
+    "nome": "Procurando Nemo",
+    "ano": 2004,
+    "categoria": "Melhor Filme de Animação"
+  },
+  {
+    "cartaz": "incriveis.jpg",
+    "nome": "Os Incríveis",
+    "ano": 2005,
+    "categoria": "Melhor Filme de Animação, Melhor Edição de Som"
+  },
+  {
+    "cartaz": "Ratatouille.jpg",
+    "nome": "Ratatouille",
+    "ano": 2008,
+    "categoria": "Melhor Filme de Animação"
+  },
+  {
+    "cartaz": "wall_e.jpg",
+    "nome": "Wall-E",
+    "ano": 2009,
+    "categoria": "Melhor Filme de Animação, Melhor Trilha Sonora Original, Melhor Canção Original ('Down to Earth')"
+  },
+  {
+    "cartaz": "up.jpg",
+    "nome": "Up - Altas Aventuras",
+    "ano": 2010,
+    "categoria": "Melhor Filme de Animação, Melhor Trilha Sonora Original"
+  },
+  {
+    "cartaz": "toy_story3.jpg",
+    "nome": "Toy Story 3",
+    "ano": 2011,
+    "categoria": "Melhor Filme de Animação, Melhor Canção Original ('We Belong Together')"
+  },
+  {
+    "cartaz": "frozen.jpg",
+    "nome": "Frozen",
+    "ano": 2014,
+    "categoria": "Melhor Filme de Animação, Melhor Canção Original ('Let It Go')"
+  },
+  {
+    "cartaz": "big_hero.jpg",
+    "nome": "Operação Big Hero",
+    "ano": 2015,
+    "categoria": "Melhor Filme de Animação"
+  },
+  {
+    "cartaz": "divertidamente.jpg",
+    "nome": "Divertida Mente",
+    "ano": 2016,
+    "categoria": "Melhor Filme de Animação"
+  },
+  {
+    "cartaz": "zootopia.jpg",
+    "nome": "Zootopia",
+    "ano": 2017,
+    "categoria": "Melhor Filme de Animação"
+  },
+  {
+    "cartaz": "viva_a_vida.jpg",
+    "nome": "Viva – A Vida é uma Festa",
+    "ano": 2018,
+    "categoria": "Melhor Filme de Animação, Melhor Canção Original ('Remember Me')"
+  },
+  {
+    "cartaz": "homen_aranha.jpg",
+    "nome": "Homem-Aranha no Aranhaverso",
+    "ano": 2019,
+    "categoria": "Melhor Filme de Animação"
+  },
+  {
+    "cartaz": "toy_story4.jpg",
+    "nome": "Toy Story 4",
+    "ano": 2020,
+    "categoria": "Melhor Filme de Animação"
+  },
+  {
+    "cartaz": "soul.jpg",
+    "nome": "Soul",
+    "ano": 2021,
+    "categoria": "Melhor Filme de Animação, Melhor Trilha Sonora Original"
+  }
+]
+}
+
+
+
